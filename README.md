@@ -1,0 +1,2 @@
+# Analysis-of-Food-Item-Prices-in-Malaysia-for-the-Year-2022
+This project aims to analyze the trends and fluctuations in the prices of various food items across Malaysia throughout the year 2022. The data is segmented by month and covers a wide range of food categories, providing insights into price movements influenced by factors such as seasonality, supply chain issues, and economic conditions. 
