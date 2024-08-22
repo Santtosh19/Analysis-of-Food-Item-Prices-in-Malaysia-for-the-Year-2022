@@ -3,6 +3,14 @@ This project aims to analyze the trends and fluctuations in the prices of variou
 
 The dataset used in this analysis comprises monthly records of food item prices across Malaysia for the year 2022. Each month's data is stored in a separate file, and there is an additional dataset that contains food codes used for categorization.
 
+## Download the Power BI Report
+
+The Power BI report file is too large to host directly on GitHub. You can download the `.pbix` file from the following link:
+
+- https://mega.nz/folder/yU9STa4b#XUFTMD6wheJCFB0qLJW9aQ
+  
+Please ensure you have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed to view the report.
+
 ### Files in the Repository
 
 - **data**
