@@ -51,3 +51,5 @@ One of the key features of the Power BI report is an interactive line chart that
    - You can switch between different food items at any time by selecting a different item from the list, and the chart will update accordingly.
 
 This feature allows for easy comparison and analysis of price trends for individual food items, helping to identify patterns, spikes, or drops in prices throughout the year.
+
+![Screenshot (942)](https://github.com/user-attachments/assets/2f11ab98-cc70-4a86-9182-663ef5e9783e)
